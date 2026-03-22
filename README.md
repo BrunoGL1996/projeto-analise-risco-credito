@@ -16,6 +16,7 @@ analise_riscos_BI.pbix: Dashboard interativo com os indicadores de risco.
 
 Demonstração do Dashboard:
 ![analise_risco_de_credito-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b87bfd6c-ed97-4f81-8a71-3656e163f831)
+
 💡 Os insights abaixo foram extraídos a partir das interações demonstradas acima, focando nos principais indicadores de risco.
 
 
