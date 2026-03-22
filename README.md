@@ -14,7 +14,7 @@ scripts_analise_risco.sql: Scripts de criação de tabelas e Views otimizadas no
 
 analise_riscos_BI.pbix: Dashboard interativo com os indicadores de risco.
 
-![Demonstração do Dashboard](nome-do-seu-a![analise_risco_de_credito-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c6fa9aea-49b8-49ab-a7bf-111c2170aead)
+![Demonstração do Dashboard][analise_risco_de_credito-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c6fa9aea-49b8-49ab-a7bf-111c2170aead)
 rquivo.gif)
 
 🔍 Principais Insights do Dashboard
