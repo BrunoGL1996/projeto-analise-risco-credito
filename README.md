@@ -19,13 +19,22 @@ Demonstração do Dashboard:
 
 💡 Os insights abaixo foram extraídos a partir das interações demonstradas acima, focando nos principais indicadores de risco.
 
+📊 Principais Insights do Dashboard
 
-🔍 Principais Insights do Dashboard
+🔎 Panorama Geral  
+A taxa média de inadimplência da carteira foi de 22,12%, indicando um nível de risco relevante que pode impactar diretamente a rentabilidade da operação. O indicador reforça a necessidade de monitoramento contínuo e revisão das políticas de concessão de crédito.
 
-Panorama Geral: A taxa média de inadimplência da carteira foi identificada em 22,12%.
+🎓 Escolaridade  
+Clientes com menor nível de escolaridade apresentam maior propensão à inadimplência, com destaque para o grupo de Ensino Médio (25,16%). Em contrapartida, clientes com Pós-Graduação demonstram menor risco, sugerindo que o nível educacional é um fator relevante na análise de crédito e pode ser incorporado como variável de decisão.
 
-Escolaridade: Clientes com Ensino Médio apresentam o maior índice de atrasos (25,16%), enquanto o grupo com Pós-Graduação é o perfil mais seguro para concessão de crédito.
+👥 Gênero  
+O público masculino apresenta maior taxa de inadimplência (26,20%) em comparação ao feminino, indicando um padrão de risco distinto entre os grupos. Esse comportamento pode ser explorado para ajustes em modelos de score e estratégias de concessão de crédito.
 
-Diferença de Gênero: O público Masculino possui um risco de inadimplência superior (26,20%) em comparação às mulheres na base analisada.
+📅 Faixa Etária  
+A inadimplência se mantém relativamente estável ao longo das faixas etárias, porém apresenta aumento significativo em clientes acima de 60 anos. Esse comportamento sugere a necessidade de políticas mais conservadoras para esse grupo, considerando possíveis limitações de renda e maior risco financeiro.
 
-Análise Etária: Identificamos que a inadimplência é estável na fase adulta, mas apresenta um pico crítico após os 60 anos, exigindo atenção especial nas políticas de crédito para este público.
+📌 Recomendações Estratégicas  
+- Revisar políticas de concessão de crédito para perfis com maior risco identificado  
+- Ajustar limites e condições de crédito com base em variáveis como escolaridade e idade  
+- Incorporar variáveis demográficas em modelos de score de crédito  
+- Desenvolver estratégias preventivas para redução da inadimplência em grupos críticos  
